@@ -1,6 +1,6 @@
 # Python-Interpreter
 
-Developed an interpreter for Python programs simulating computer’s execution, using basic operators & OOPs in Python
+Developed an interpreter for Python programs simulating computer’s execution, using basic operators & OOPs in Python.
  
 It is capable of processing Unary and Binary Operations, Conditionals, as well as nested loops using Branch statements.
 
