@@ -4,6 +4,8 @@ Developed an interpreter for Python programs simulating computer’s execution, 
  
 It is capable of processing Unary and Binary Operations, Conditionals, as well as nested loops using Branch statements.
 
+It consists of two parts - we build upon the first part in the second, and the input of both the parts is as follows:
+
 Part-1 : 
 A STATEMENT is of the form: VARIABLE = EXPRESSION
 
